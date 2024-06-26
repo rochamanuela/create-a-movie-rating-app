@@ -2,6 +2,7 @@
 import { reactive } from 'vue';
 import { items } from './movies.json';
 
+// necessário componentizar
 const movies = reactive(items);
 </script>
 

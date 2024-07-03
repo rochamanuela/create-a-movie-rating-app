@@ -2,36 +2,36 @@
 	"items": [
 		{
 			"id": 1,
-			"name": "The Godfather",
-			"description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-			"image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY1982_.jpg",
+			"name": "Beleza Verdadeira",
+			"description": "Na comédia romântica Beleza Verdadeira, Lim Ju-kyung (Moon Ga-young) é uma menina de aparência comum que, da noite para o dia, se torna a garota mais popular por ser bonita. Por anos a jovem sofreu bullying de familiares e colegas de classe, até decidir como usar maquiagem a seu favor assistindo vídeos tutoriais no YouTube. Depois de dominar a arte, Lim Ju-kyung muda e se torna uma das garotas mais admiradas em seu novo colégio. Contudo, ela ainda carrega muita insegurança e baixa autoestima, optando por nunca revelar o rosto sem maquiagem aos novos colegas. Isso muda quando Lee Su-ho (Cha Eun-woo) a vê de rosto limpo e a reconhece. Su-ho também é um garoto popular na escola, mas prefere não ser o centro das atenções, constantemente se mantendo frio e distante dos outros. Por conta dos segredos que compartilham, Lee Su-ho e Lim Ju-kyung se aproximam e agora ela deve encontrar sua beleza verdadeira. ",
+			"image": "public/images/true_beaty.png",
 			"rating": 4,
 			"genres": [
-				"Crime",
-				"Drama"
+				"Romance",
+				"Comédia"
 			],
 			"inTheaters": false
 		},
 		{
 			"id": 2,
-			"name": "The Shawshank Redemption",
-			"description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-			"image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1200_.jpg",
+			"name": "Holo, meu amor",
+			"description": "Uma mulher solitária encontra um amor inesperado ao estabelecer uma ligação com um holograma em forma humana que tem aparência igual à do seu criador.",
+			"image": "public/images/holo.png",
 			"rating": 4,
 			"genres": [
-				"Drama"
+				"Drama",
+				"Ficção"
 			],
 			"inTheaters": false
 		},
 		{
 			"id": 3,
-			"name": "The Dark Knight",
-			"description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-			"image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg",
-			"rating": 3,
+			"name": "Rainha das Lágrimas",
+			"description": "Em Rainha das Lágrimas, um casal de magnatas supera uma crise matrimonial ainda que tudo esteja contra eles. No drama coreano, Hyun-woo (Kim Soo-hyun), o diretor de uma rede de supermercados e Hae-in (Kim Ji-won), uma herdeira chaebol de um império de lojas de departamento, se apaixonam intensamente na juventude e logo se casam. O tempo passa e eles entram em uma profunda crise no casamento, mas quando tudo aponta para o pior, o amor volta a florescer e eles vão superando as dificuldades juntos.",
+			"image": "public/images/queen_of_tears.png",
+			"rating": 4,
 			"genres": [
-				"Action",
-				"Crime",
+				"Romance",
 				"Drama"
 			],
 			"inTheaters": false
